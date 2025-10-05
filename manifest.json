@@ -1,0 +1,9 @@
+{
+    "name": "FuelsGO - Reporte de Gasolineras",
+    "short_name": "FuelsGO",
+    "description": "Reporte comunitario sobre el estado de las estaciones de servicio.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f8f9fa",
+    "theme_color": "#007bff"
+}
